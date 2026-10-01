@@ -1,0 +1,6 @@
+Company,Country,City,Product,Form,HSCode,RegularImporter,ImportFrequency,ShipmentCount,Origin,Supplier,LastShipment,Ports,Website,Source,LastVerified,Confidence
+All Seasonings Ingredients Inc.,USA,New York,Dehydrated Onion,Chopped/Powder/Granules,,Yes,Recurring,,,India,2026-08,,https://allseasonings.com/,Public/company-trade references,2026-10-02,Medium
+Example Food Ingredients LLC,UAE,Dubai,Dehydrated Garlic,Powder,071290,Yes,Recurring,Demo,India,Demo Supplier,2026-09,Jebel Ali,,DEMO DATA,2026-10-02,Low
+Example Spice Trading GmbH,Germany,Hamburg,Dehydrated Onion,Flakes,071290,No,Occasional,Demo,India,Demo Supplier,2026-06,Hamburg,,DEMO DATA,2026-10-02,Low
+Example Foods Ltd.,UK,London,Dehydrated Onion,Granules,071290,Yes,Recurring,Demo,India,Demo Supplier,2026-08,Felixstowe,,DEMO DATA,2026-10-02,Low
+Example Ingredients Inc.,USA,Chicago,Dehydrated Garlic,Flakes,071290,Yes,Recurring,Demo,India,Demo Supplier,2026-07,New York,,DEMO DATA,2026-10-02,Low
